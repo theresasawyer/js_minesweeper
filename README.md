@@ -1,3 +1,3 @@
 # js_minesweeper
 
-CodeCademy JavaScript minesweeper project
+CodeCademy JavaScript minesweeper project.
